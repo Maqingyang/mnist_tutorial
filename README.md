@@ -1,27 +1,27 @@
 ### Q1:
-Please use the logistic regression(default parameters) in sklearn to classify the data above, and print the training accuracy and test accuracy.
-Training accuracy: 97.50%
-Testing accuracy: 87.30%
+Please use the logistic regression(default parameters) in sklearn to classify the data above, and print the training accuracy and test accuracy.  
+Training accuracy: 97.50%  
+Testing accuracy: 87.30%  
 
 ### Q2
-Please use the naive bayes(Bernoulli, default parameters) in sklearn to classify the data above, and print the training accuracy and test accuracy.
-Training accuracy: 82.07%
-Testing accuracy: 80.60%
+Please use the naive bayes(Bernoulli, default parameters) in sklearn to classify the data above, and print the training accuracy and test accuracy.  
+Training accuracy: 82.07%  
+Testing accuracy: 80.60%  
 
 ### Q3
-Please use the support vector machine(default parameters) in sklearn to classify the data above, and print the training accuracy and test accuracy.
-Training accuracy: 97.88%
-Testing accuracy: 85.10%
+Please use the support vector machine(default parameters) in sklearn to classify the data above, and print the training accuracy and test accuracy.    
+Training accuracy: 97.88%  
+Testing accuracy: 85.10%  
 
 ### Q4
-Please adjust the parameters of SVM to increase the testing accuracy, and print the training accuracy and test accuracy.
-Training accuracy: 95.37%
-Testing accuracy: 87.10%
+Please adjust the parameters of SVM to increase the testing accuracy, and print the training accuracy and test accuracy.  
+Training accuracy: 95.37%  
+Testing accuracy: 87.10%  
 
 ### Q5:
-Please print the training and testing accuracy.
-Training accuracy: 99.73%
-Testing accuracy: 99.10%
+Please print the training and testing accuracy.  
+Training accuracy: 99.73%  
+Testing accuracy: 99.10%  
 
 
 # mnist_tutorial
